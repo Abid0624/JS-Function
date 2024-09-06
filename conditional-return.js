@@ -17,5 +17,5 @@ function isOdd(number){
   return false;
 }
 
-console.log(isOdd(5));
+console.log(isOdd(5))
 console.log(isOdd(10));
